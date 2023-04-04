@@ -10,3 +10,7 @@ This is a maven project and we include external 3rd prty libraries in our pom.xm
 - JUnit (unit testing)
 - Swagger (documentation)
 - A few Spring boot dependencies
+
+<!-- Things to do:
+- write tests on vs code
+- test automation -->
